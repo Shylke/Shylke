@@ -2,7 +2,7 @@ Violence is never the answer, it is the question, and the answer is yes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shylke&show_icons=true&theme=algolia)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shylke&repo=colors)](https://github.com/Shylke/colors)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shylke&repo=colors&theme=algolia&show_owner=true)](https://github.com/Shylke/colors)
 
 
 <!--
