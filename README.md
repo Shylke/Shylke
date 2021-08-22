@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Violence is never the answer, it is the question, and the answer is yes.
 <!--
 **Shylke/Shylke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
