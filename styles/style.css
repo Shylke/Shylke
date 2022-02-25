@@ -68,10 +68,6 @@ a:hover {
     color: var(--link-hover);
 }
 
-a:visited {
-    color: var(--link-color);
-}
-
 .about {
     display: flex;
     justify-content: center;
