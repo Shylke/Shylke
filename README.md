@@ -8,14 +8,15 @@ Violence is never the answer, it is the question, and the answer is yes.
 
 <!-- **Shylke/Shylke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on my site
-- 🌱 I’m currently learning HTML and CSS (and failing)
+- 🔭 I’m currently working on ... my site
+- 🌱 I’m currently learning ... HTML and CSS (and failing)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: they/them
+- 😄 Pronouns: ... they/them
 - ⚡ Fun fact: ...
 
+-->
