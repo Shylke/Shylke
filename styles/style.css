@@ -73,6 +73,14 @@ a:visited {
     color: var(--link-visited)
 }
 
+.about {
+    display: flex;
+    justify-content: center;
+}
+
+.about > img {
+    height: 3.3vh;
+}
 
 /* My Shit Buttons */
 
@@ -96,10 +104,25 @@ a:visited {
     animation: scale 350ms ease forwards;
 } 
 
+.home > svg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8vw;
+    border: 1.5px outset black;
+    border-radius: 50px;
+    filter: invert(85%) hue-rotate(20deg);
+    padding: 10px;
+}
+
+.home > svg:hover {
+    animation: scale 350ms ease forwards;
+}
+
 /* Animations */
 
 .fade-in-bottom {
-	animation: fade-in-bottom 1.6s ease-out both;
+	animation: fade-in-bottom 1.5s ease-out;
 }
  
 @keyframes fade-in-bottom { 
