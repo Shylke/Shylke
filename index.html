@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html lang="en" class="theme-dark">
+  <head> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="styles/style.css">
@@ -10,25 +10,27 @@
   <title>Welcome to Hell</title>
  </head>
 
-
  <body>
   <h1>Shylke</h1>
-
-   <div class="round-image">
+   <div class="shylke-image">
      <img src="images/cover-shylke.png">
    </div>
   <p>If you're reading this, you're making a big mistake.</p>
-  <hr>
+  <div class="divider"></div>
 
    <nav>
-     <h2>Table of Contents</h2>
-     <a href="aboutme.html"><div class="button">About Me</div></a> 
-     <a href="socials.html"><div class="button">My Socials</div></a>
-  </nav>
-
+     <h2>Contents</h2>
+     <a href="aboutme.html"><div class="grid-box">About Me</div></a> 
+     <a href="socials.html"><div class="grid-box">My Socials</div></a>
+     <br>
+     <div class="divider"></div>
+     <h2>Theme Toggler</h2>
+     <label>
+      <button id="theme-toggle" onclick="toggleTheme()">☼ Light</button>
+    </label>
+    <script src="scripts/theme-toggler.js"></script>
    <footer>
      <p>&copy; 2022 Shylke</p>
   </footer>
-
 </body> 
 </html>
