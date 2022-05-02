@@ -53,8 +53,8 @@ h1, h2, h3, h4, h5, h6 {
 } 
 
 .divider {
-    border: 1px outset var(--border-color);
-    border-radius: 120px;
+    border: 2px outset var(--border-color);
+    border-radius: 100px;
 }
 
 .shylke-image img {
@@ -141,7 +141,7 @@ button {
 } 
 
 .home  {
-    display: grid;
+    display: flex;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
